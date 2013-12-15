@@ -2,7 +2,7 @@
 
 <!-- @warning.generated-file@ -->
 
-<installation version="1.0">
+<installation version="5.0">
 
     <info>
         <appname>@name.package@</appname>
